@@ -1,0 +1,33 @@
+c:\users\dell\documents\visual studio 2015\Projects\QL_DoAnNhanh\QL_DoAnNhanh\bin\Debug\QL_DoAnNhanh.exe.config
+C:\Users\dell\Documents\Visual Studio 2015\Projects\QL_DoAnNhanh\QL_DoAnNhanh\bin\Debug\QL_DoAnNhanh.exe
+C:\Users\dell\Documents\Visual Studio 2015\Projects\QL_DoAnNhanh\QL_DoAnNhanh\bin\Debug\QL_DoAnNhanh.pdb
+C:\Users\dell\Documents\Visual Studio 2015\Projects\QL_DoAnNhanh\QL_DoAnNhanh\obj\Debug\QL_DoAnNhanh.csprojResolveAssemblyReference.cache
+C:\Users\dell\Documents\Visual Studio 2015\Projects\QL_DoAnNhanh\QL_DoAnNhanh\obj\Debug\QL_DoAnNhanh.Properties.Resources.resources
+C:\Users\dell\Documents\Visual Studio 2015\Projects\QL_DoAnNhanh\QL_DoAnNhanh\obj\Debug\QL_DoAnNhanh.View.FormMain.resources
+C:\Users\dell\Documents\Visual Studio 2015\Projects\QL_DoAnNhanh\QL_DoAnNhanh\obj\Debug\QL_DoAnNhanh.csproj.GenerateResource.Cache
+C:\Users\dell\Documents\Visual Studio 2015\Projects\QL_DoAnNhanh\QL_DoAnNhanh\obj\Debug\QL_DoAnNhanh.exe
+C:\Users\dell\Documents\Visual Studio 2015\Projects\QL_DoAnNhanh\QL_DoAnNhanh\obj\Debug\QL_DoAnNhanh.pdb
+C:\Users\dell\Documents\Visual Studio 2015\Projects\QL_DoAnNhanh\QL_DoAnNhanh\obj\Debug\QL_DoAnNhanh.View.flash.resources
+C:\Users\dell\Documents\Visual Studio 2015\Projects\QL_DoAnNhanh\QL_DoAnNhanh\obj\Debug\QL_DoAnNhanh.View.Intro.resources
+C:\Users\dell\Documents\Visual Studio 2015\Projects\QL_DoAnNhanh\QL_DoAnNhanh\obj\Debug\QL_DoAnNhanh.View.ucBanHang.resources
+C:\Users\dell\Documents\Visual Studio 2015\Projects\QL_DoAnNhanh\QL_DoAnNhanh\obj\Debug\QL_DoAnNhanh.View.ucFood.resources
+C:\Users\dell\Documents\Visual Studio 2015\Projects\QL_DoAnNhanh\QL_DoAnNhanh\obj\Debug\QL_DoAnNhanh.View.ucNhanVien.resources
+C:\Users\dell\Documents\Visual Studio 2015\Projects\QL_DoAnNhanh\QL_DoAnNhanh\obj\Debug\QL_DoAnNhanh.View.ucTrangChu.resources
+C:\Users\dell\Documents\Visual Studio 2015\Projects\QL_DoAnNhanh\QL_DoAnNhanh\obj\Debug\QL_DoAnNhanh.View.FrmLogin.resources
+D:\TaiLieuMonHoc\Công nghệ phần mềm\QL_DoAnNhanh\QL_DoAnNhanh\bin\Debug\QL_DoAnNhanh.exe.config
+D:\TaiLieuMonHoc\Công nghệ phần mềm\QL_DoAnNhanh\QL_DoAnNhanh\obj\Debug\QL_DoAnNhanh.exe
+D:\TaiLieuMonHoc\Công nghệ phần mềm\QL_DoAnNhanh\QL_DoAnNhanh\obj\Debug\QL_DoAnNhanh.pdb
+D:\TaiLieuMonHoc\Công nghệ phần mềm\QL_DoAnNhanh\QL_DoAnNhanh\bin\Debug\QL_DoAnNhanh.exe
+D:\TaiLieuMonHoc\Công nghệ phần mềm\QL_DoAnNhanh\QL_DoAnNhanh\bin\Debug\QL_DoAnNhanh.pdb
+D:\TaiLieuMonHoc\Công nghệ phần mềm\QL_DoAnNhanh\QL_DoAnNhanh\obj\Debug\QL_DoAnNhanh.csprojResolveAssemblyReference.cache
+D:\TaiLieuMonHoc\Công nghệ phần mềm\QL_DoAnNhanh\QL_DoAnNhanh\obj\Debug\QL_DoAnNhanh.View.flash.resources
+D:\TaiLieuMonHoc\Công nghệ phần mềm\QL_DoAnNhanh\QL_DoAnNhanh\obj\Debug\QL_DoAnNhanh.Properties.Resources.resources
+D:\TaiLieuMonHoc\Công nghệ phần mềm\QL_DoAnNhanh\QL_DoAnNhanh\obj\Debug\QL_DoAnNhanh.View.FormMain.resources
+D:\TaiLieuMonHoc\Công nghệ phần mềm\QL_DoAnNhanh\QL_DoAnNhanh\obj\Debug\QL_DoAnNhanh.View.FrmLogin.resources
+D:\TaiLieuMonHoc\Công nghệ phần mềm\QL_DoAnNhanh\QL_DoAnNhanh\obj\Debug\QL_DoAnNhanh.View.Intro.resources
+D:\TaiLieuMonHoc\Công nghệ phần mềm\QL_DoAnNhanh\QL_DoAnNhanh\obj\Debug\QL_DoAnNhanh.View.ucBanHang.resources
+D:\TaiLieuMonHoc\Công nghệ phần mềm\QL_DoAnNhanh\QL_DoAnNhanh\obj\Debug\QL_DoAnNhanh.View.ucFood.resources
+D:\TaiLieuMonHoc\Công nghệ phần mềm\QL_DoAnNhanh\QL_DoAnNhanh\obj\Debug\QL_DoAnNhanh.View.ucNhanVien.resources
+D:\TaiLieuMonHoc\Công nghệ phần mềm\QL_DoAnNhanh\QL_DoAnNhanh\obj\Debug\QL_DoAnNhanh.View.ucTrangChu.resources
+D:\TaiLieuMonHoc\Công nghệ phần mềm\QL_DoAnNhanh\QL_DoAnNhanh\obj\Debug\QL_DoAnNhanh.csproj.GenerateResource.Cache
+D:\TaiLieuMonHoc\Công nghệ phần mềm\QL_DoAnNhanh\QL_DoAnNhanh\obj\Debug\QL_DoAnNhanh.exe.licenses
